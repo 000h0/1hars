@@ -1,0 +1,3 @@
+! wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.44/lolMiner_v1.44_Lin64.tar.gz
+! tar -xf lolMiner_v1.44_Lin64.tar.gz
+! ./1.44/lolMiner --algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user 3FHgiUA1Aj66SqtZn4AQyvjqSQhTrZPY7h.GPU
